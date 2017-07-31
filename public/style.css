@@ -1,0 +1,34 @@
+.logo {
+  width: 50px;
+  height: 50px;
+}
+
+.red-quote{
+  color: red;
+}
+
+body{
+  background: url(http://cdn.pcwallart.com/images/amazing-cat-meme-wallpaper-4.jpg); 
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+h1{
+  list-style-type: none; 
+  font-weight: bold;
+  font-family: 'Lemonada', cursive;
+  font-size: 1.9rem;
+}
+
+ul{
+  list-style-type: none; 
+  font-weight: bold;
+  font-family: 'Lemonada', cursive;
+  font-size: 1.3rem;
+}
+
+img {
+  border: 10px solid #3e2b14;
+  padding: 10px;
+}
